@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pNet13
+- 👋 Hi, I’m @Netesh Dahal
 - 👀 I’m interested in AI development, machine learning, deep learning, robotics, and automation.
 - 🌱 I’m currently learning advanced AI algorithms, large language models (LLMs), and their applications.
 - 💞️ I’m looking to collaborate on innovative AI projects that aim to solve complex global issues and drive societal change.
