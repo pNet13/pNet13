@@ -1,4 +1,4 @@
-<h1>Hi, I'm Netesh Dahal! <br/><a href="https://github.com/neteshdahal">Engineer</a>, <a href="https://www.linkedin.com/in/neteshdahal/">GenAI & Robotics Specialist</a></h1>
+<h1>Hi, I'm Netesh Dahal! <br/><a href="https://github.com/neteshdahal">Engineer</a>, <a href="https://www.linkedin.com/in/neteshdahal/">GenAI & Robotics Enthusiast </a></h1>
 
 <h2>💡 Interests & Passions</h2>
 
@@ -7,17 +7,6 @@ I am deeply passionate about the convergence of Artificial Intelligence and Quan
 - **Integrating AI with Quantum Computing**: Exploring how quantum mechanics can enhance AI’s capabilities and performance, enabling breakthroughs in data processing and optimization.
 - **Advancements in Robotics**: Developing intelligent systems that can perform complex tasks autonomously, improving efficiency and innovation in various industries.
 - **Machine Learning and Deep Learning**: Continuously advancing my knowledge in these areas to stay at the forefront of technological developments and apply them to real-world problems.
-
-<h1>Hi, I'm Netesh Dahal! <br/><a href="https://github.com/neteshdahal">Engineer</a>, <a href="https://www.linkedin.com/in/neteshdahal/">GenAI & Robotics Specialist</a></h1>
-
-<h2>💡 Interests & Passions</h2>
-
-I'm passionate about the intersection of Artificial Intelligence and Quantum Computing, exploring how these fields can reshape technology and solve complex global challenges. My key areas of interest include:
-
-- **AI and Quantum Computing Integration**: Investigating how quantum mechanics can amplify AI’s capabilities, driving advancements in data processing and optimization.
-- **Robotics Innovations**: Developing intelligent autonomous systems to revolutionize industries with smarter, more efficient automation.
-- **Machine Learning & Deep Learning**: Constantly advancing my expertise in ML and DL to apply cutting-edge technologies to real-world problems.
-
 
 <h2>👨‍💻 Software Development Projects</h2>
 
