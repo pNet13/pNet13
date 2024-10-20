@@ -1,4 +1,4 @@
-<h1>Hi, I'm Netesh Dahal! <br/><a href="https://github.com/neteshdahal">Engineer</a>, <a href="https://www.linkedin.com/in/neteshdahal/">GenAI & Robotics Enthusiast </a></h1>
+<h1>Hi, I'm Netesh Dahal! <br/><a href="https://github.com/neteshdahal"> ML Engineer</a>, <a href="https://www.linkedin.com/in/neteshdahal/">GenAI & Robotics Enthusiast </a></h1>
 
 <h2>💡 Interests & Passions</h2>
 
