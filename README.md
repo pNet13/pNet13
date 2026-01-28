@@ -1,14 +1,6 @@
-<h1>Hi, I'm Netesh Dahal! <br/><a href="https://github.com/neteshdahal"> ML Engineer</a>, <a href="https://www.linkedin.com/in/neteshdahal/">GenAI & Robotics Enthusiast </a></h1>
 
-<h2>💡 Interests & Passions</h2>
 
-I am deeply passionate about the convergence of Artificial Intelligence and Quantum Computing. My fascination with these fields stems from their potential to revolutionize technology and solve complex global challenges. I am particularly interested in:
-
-- **Integrating AI with Quantum Computing**: Exploring how quantum mechanics can enhance AI’s capabilities and performance, enabling breakthroughs in data processing and optimization.
-- **Advancements in Robotics**: Developing intelligent systems that can perform complex tasks autonomously, improving efficiency and innovation in various industries.
-- **Machine Learning and Deep Learning**: Continuously advancing my knowledge in these areas to stay at the forefront of technological developments and apply them to real-world problems.
-
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>GenAI Platform Efficiency Improvement</b>
   - [Platform Efficiency Enhancement using AI](https://github.com/neteshdahal/GenAI-Platform-Efficiency)
